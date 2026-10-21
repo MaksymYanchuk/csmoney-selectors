@@ -1,4 +1,4 @@
-const botSideSelector = ".cds0";
+const botSideSelector = ".cdu0";
 const reloadButtonSelector = ".c0g0";
 const tradeButtonSelector = ".Button-module_root__8RX49";
 const cardSelector = ".c3s7";
